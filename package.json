@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hypensterisk/cli/issues"
   },
-  "homepage": "https://github.com/hypensterisk/cli#readme"
+  "homepage": "https://github.com/hypensterisk/cli#readme",
+  "dependencies": {
+    "@types/node": "^18.11.9"
+  }
 }
