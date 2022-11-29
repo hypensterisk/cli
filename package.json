@@ -1,0 +1,20 @@
+{
+  "name": "cli",
+  "version": "0.0.1",
+  "description": "Simple Module To Create CLI App",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hypensterisk/cli.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "hypensterisk",
+  "license": "unlicense",
+  "bugs": {
+    "url": "https://github.com/hypensterisk/cli/issues"
+  },
+  "homepage": "https://github.com/hypensterisk/cli#readme"
+}
